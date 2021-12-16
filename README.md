@@ -1,7 +1,7 @@
-# README generator
+# README Generator
 ## [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
-A README generator for challenge 9. First challenger utilizing node.
+Readme generator
 ## Table of Contents
 - [Link](#link)
 - [Installation](#installation)
@@ -13,11 +13,11 @@ A README generator for challenge 9. First challenger utilizing node.
 ## Link
 undefined
 ## Installation
-run node index from command line
+run node index
 ## Usage
-N/A
+N/a
 ## Tests
-N/A
+N/a
 ## Contributors
 undefined
 ## Questions
