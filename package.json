@@ -18,5 +18,6 @@
   "homepage": "https://github.com/Spooncodes/README-Gen#README",
   "dependencies": {
     "inquirer": "^8.2.0"
-  }
+  },
+  "devDependencies": {}
 }
