@@ -8,4 +8,4 @@ https://github.com/Spooncodes/README-Gen
 
 ### Images
 ![screen-gif](Demo/Readme.gif)
-!(images/readme.png)
+![alt text](images/readme.png)
