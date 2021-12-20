@@ -1,7 +1,6 @@
 const fs = require('fs');
 
 
-// TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
   if(license === "MIT License"){
@@ -25,11 +24,10 @@ function renderLicenseBadge(license) {
   }
 }
 
-
+//function for readme layout
 function generateMarkdown(data) {
 
   const builtLicense = renderLicenseBadge(data.license)
-  // project title
     return  `# ${data.title}
 ## ${builtLicense}
 ## Description

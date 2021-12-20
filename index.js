@@ -6,9 +6,7 @@ const generateMarkdown = require("./utils/generateMarkdown.js");
 // array of questions for user input
 const promptUser = () => {
   console.log(`
-    =====================================
     Welcome to the README generator
-    =====================================
     `);
 
   return inquirer.prompt([
@@ -137,7 +135,7 @@ const promptUser = () => {
   ]);
 };
 
-// TODO: Create a function to write README file
+// function to write readme
 const writeToFile = (filename, data) => {
   return new Promise((resolve, reject) => {
     fs.writeFile("README.md", data, (err) => {
