@@ -7,5 +7,5 @@ https://github.com/Spooncodes/README-Gen
 
 
 ### Images
-!(demo/Readme.gif)
+![screen-gif] (Demo/Readme.gif)
 !(images/readme.png)
